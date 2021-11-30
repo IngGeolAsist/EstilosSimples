@@ -180,9 +180,9 @@ Hay multiples atributos que se pueden ser editados según el tipo de geometría.
 
 ![screenshot](https://raw.githubusercontent.com/sampach95/EstilosSimples/master/img/Imagen1.png )
 
-Siguiente Tutorial
+Siguiente Tutorial https://github.com/IngGeolAsist/CategorizarElementosAPartirDeUnaPropiedad
 
-Haz click en el siguiente enlace para volver a la pagina inicial https://github.com/sampach95/ComoCrearMapasEnLaWebConLeaflet
+Haz click en el siguiente enlace para volver a la pagina inicial https://github.com/IngGeolAsist/ComoCrearMapasEnLaWebConLeaflet
 
 
 
